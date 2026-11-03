@@ -12,4 +12,5 @@ karotten
 kartoffeln
 bratl
 sekt
+kebab
 
