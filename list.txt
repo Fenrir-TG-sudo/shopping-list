@@ -3,5 +3,9 @@ birnen
 brokkoli
 banane
 wasserwelone
+<<<<<<< HEAD
 druckerpatronen
 karotten
+=======
+
+>>>>>>> parent of bfaaa8c (added druckerpatronen)
