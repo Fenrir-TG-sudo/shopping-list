@@ -11,3 +11,5 @@ druckerpatronen
 karotten
 kartoffeln
 bratl
+sekt
+
