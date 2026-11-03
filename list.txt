@@ -4,3 +4,4 @@ brokkoli
 banane
 wasserwelone
 druckerpatronen
+karotten
